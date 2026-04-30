@@ -1,0 +1,31 @@
+:host {
+  display: inline-block;
+}
+
+.btn {
+    background: var(--color-primary);
+    color: var(--color-secondary);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: var(--radius-defect);
+    cursor: pointer;
+
+    font-family: var(--font-sans);
+    font-size: var(--text-normal);
+
+    transition: var(--transition);
+}
+
+.btn:hover {
+    opacity: 0.85;
+    background-color: var(--color-secondary);
+    color: var(--color-text);
+}
+
+.btn:active {
+    opacity: 0.7;
+}
+
