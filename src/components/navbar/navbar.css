@@ -1,13 +1,13 @@
 .header {
   width: 100%;
-  background-color: #000000;
+  background-color: var(--color-secondary);
 }
 
 .navbar {
   width: 100%;
-  background-color: #000000;
+  background-color: var(--color-secondary);
   padding: 19px 9%;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  border-bottom: 1px solid var(--color-border);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -15,8 +15,8 @@
 }
 
 .logo {
-  color: #D4B117;
-  font-size: 25px;
+  color: var(--color-primary);
+  font-size: var(--text-title);
   font-weight: 700;
 }
 
@@ -30,15 +30,15 @@
   display: block;
   background-color: #2d2d2d;
   text-decoration: none;
-  color: #FFFFFF;
+  color: var(--color-text);
   padding: 10px 17px;
-  border-radius: 6px;
-  font-size: 14px;
+  border-radius: var(--radius-defect);
+  font-size: var(--text-normal);
   font-weight: 500;
-  transition: 150ms ease;
+  transition: var(--transition);
 }
 
 .menu a:hover {
-  background-color: #D4B117;
-  color: #000000;
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
 }
