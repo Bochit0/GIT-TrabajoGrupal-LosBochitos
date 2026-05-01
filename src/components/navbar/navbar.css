@@ -1,11 +1,5 @@
-.header {
-  width: 100%;
-  background-color: var(--color-secondary);
-}
-
 .navbar {
   width: 100%;
-  background-color: var(--color-secondary);
   padding: 19px 9%;
   border-bottom: 1px solid var(--color-border);
   display: flex;
