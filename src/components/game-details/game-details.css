@@ -1,0 +1,98 @@
+.game-details-view {
+    padding: 40px;
+    color: white;
+}
+
+.game-details-container {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+}
+
+.game-cover-column {
+    flex: 0 0 500px;
+}
+
+.game-cover-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.game-info-column {
+    flex: 1;
+}
+
+.meta-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.meta-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.back-link {
+    color: #e2b34a; 
+    text-decoration: none;
+    display: block;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+}
+
+.game-title {
+    color: #e2b34a; 
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.game-rating, .star-icon, .meta-icon, .section-subtitle {
+    color: #e2b34a; 
+}
+
+.game-rating {
+    font-size: 1.5rem;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.separator {
+    border: none;
+    border-top: 1px solid #444; 
+    margin: 20px 0;
+}
+
+.meta-label {
+    color: white;
+}
+
+.meta-value {
+    color: #999; 
+}
+
+.section-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.game-description {
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+.genre-tag {
+    background-color: #e2b34a; 
+    color: #1a1a1a; 
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
