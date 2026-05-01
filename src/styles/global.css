@@ -11,7 +11,7 @@
     --text-subtitle: 18px;
     --text-normal: 14px;
 
-    --radius-defect: 7px;
+    --radius-defect: 4px;
 
     --border: 1px solid var(--color-border);
     --color-border: rgba(255, 255, 255, 0.15);
