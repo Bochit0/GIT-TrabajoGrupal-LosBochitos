@@ -15,7 +15,7 @@ class Navbar extends HTMLElement {
     ];
 
     this.shadowRoot.innerHTML = `
-      <link rel="stylesheet" href="/components/navbar/navbar.css">
+      <link rel="stylesheet" href="./components/navbar/navbar.css">
       <nav class="menu">
         ${items.map(item => `
           <a href="${item.link}">${item.name}</a>

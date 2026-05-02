@@ -9,7 +9,7 @@ class Header extends HTMLElement{
         const subtitle_header= this.getAttribute('subtitle_header');
 
         this.shadowRoot.innerHTML = `
-            <link rel="stylesheet" href="/components/header/header.css">
+            <link rel="stylesheet" href="./components/header/header.css">
             <header>
                 <div class="superio-content">
                     <div>
