@@ -6,12 +6,13 @@ class Navbar extends HTMLElement {
 
   connectedCallback() {
     const items = [
-      { name: "Horror",          link: "#horror" },
-      { name: "Sandbox",         link: "#sandbox" },
-      { name: "Deporte",         link: "#deporte" },
-      { name: "Carrera",         link: "#carrera" },
-      { name: "Acción-Aventura", link: "#accion-aventura" },
-      { name: "Shooter",         link: "#shooter" },
+      { name:  "GOTY",            link: "#game-of-the-year" },
+      { name: "Horror",          link: "#horror-video-game" },
+      { name: "Sandbox",         link: "#sandbox-video-game" },
+      { name: "Deporte",         link: "#sport-video-game" },
+      { name: "Carrera",         link: "#carrera-video-game" },
+      { name: "Acción-Aventura", link: "#accion-aventura-video-game" },
+      { name: "Shooter",         link: "#shooter-video-game" },
     ];
 
     this.shadowRoot.innerHTML = `
