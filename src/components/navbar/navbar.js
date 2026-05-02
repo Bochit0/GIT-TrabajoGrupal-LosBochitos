@@ -1,7 +1,7 @@
 function createNavbar(items) {
   return `
     <nav class="navbar">
-      <h1 class="logo">🎮Bochito Reviews</h1>
+      <h1 class="logo">🎮Games Reviews</h1>
       <ul class="menu">
         ${items.map(item => `
           <li><a href="${item.link}">${item.name}</a></li>
