@@ -1,11 +1,27 @@
-class GameCardList extends HTMLElement {
-  async connectedCallback() {
-    const gameName = this.getAttribute('game');
+import '/components/video-game-card/game-card.js';
 
-    if (!gameName) {
-      this.innerHTML = `<p>No se especificó el juego</p>`;
-      return;
+class GameCardList extends HTMLElement {
+
+  static get observedAttributes() {
+    return ['game'];
+  }
+
+  constructor() {
+    super();
+  }
+
+  connectedCallback() {
+    const gameName = this.getAttribute('game');
+    if (gameName) this._load(gameName);
+  }
+
+  attributeChangedCallback(name, oldVal, newVal) {
+    if (name === 'game' && oldVal !== newVal && newVal) {
+      this._load(newVal);
     }
+  }
+
+  async _load(gameName){
 
     if (!document.getElementById('game-card-list-styles')) {
       const link = document.createElement('link');
@@ -36,7 +52,7 @@ class GameCardList extends HTMLElement {
       console.error(err);
       this.innerHTML = `<p>Error cargando datos</p>`;
     }
-  }
+  }  
 }
 
 customElements.define('game-card-list', GameCardList);
