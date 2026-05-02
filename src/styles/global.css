@@ -1,7 +1,7 @@
 :root {
     --color-primary: #D4B117;
     --color-secondary: #000000;
-    --color-bg: #757575;
+    --color-bg: #2d2d2d;
     --color-text: #FFFFFF;
 
     --font-sans:  'Inter', system-ui, sans-serif;
@@ -30,6 +30,16 @@ body {
   font-size: var(--text-normal);
   background-color: var(--color-bg);
   line-height: 1.6;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+our-layout {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 img, svg, video {
