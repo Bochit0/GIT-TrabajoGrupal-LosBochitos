@@ -34,5 +34,17 @@
     "developer": "Re-Logic",
     "genre": "Sandbox",
     "description": "sandbox de acción-aventura en 2D donde exploras mundos generados aleatoriamente para sobrevivir, construir y combatir. El jugador lucha contra criaturas y jefes —incluidos ecos de un mal antiguo como Cthulhu— para restaurar el equilibrio en un mundo amenazado por la corrupción y la bendición."
+  },
+  {
+    "id": "roblox",
+    "title": "Roblox",
+    "rating": "9.9",
+    "src": "./data/sandbox-video-game/roblox.jpg",
+    "alt": "Portada de Roblox",
+    "coverUrl": "./data/sandbox-video-game/roblox.jpg",
+    "releaseDate": "1 de septiembre, 2006",
+    "developer": "Roblox Corporation",
+    "genre": "Sandbox",
+    "description": "sandbox donde puedes jugar una variedad inmensa de juegos y crear los tuyos propios."
   }
 ]
