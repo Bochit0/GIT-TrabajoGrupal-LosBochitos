@@ -6,6 +6,7 @@ class GameCard extends HTMLElement {
     const alt    = this.getAttribute('alt') || titulo;
 
     this.innerHTML = `
+      <link rel="stylesheet" href="components/video-game-card/game-card.css">
       <div class="card">
         <div>
           <img class="card_image" src="${src}" alt="${alt}" />

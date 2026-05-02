@@ -5,6 +5,7 @@ export function renderGameDetails(gameData, parentElement) {
     detailsView.classList.add('game-details-view');
 
     const htmlTemplate = `
+        <link rel="stylesheet" href="components/game-details/game-details.css">
         <a href="#" class="back-link">← Volver a ${gameData.genre}</a>
         <div class="game-details-container">
             <div class="game-cover-column">
