@@ -34,5 +34,29 @@
     "developer": "Ubisoft",
     "genre": "Aventura",
     "description": "sigue a Edward Kenway, un audaz pirata galés en el Caribe de 1715 durante la Edad de Oro de la piratería."
+  },
+  {
+    "id": "uncharted",
+    "title": "Uncharted",
+    "rating": "7.5",
+    "src": "./data/accion-aventura-video-game/uncharted.jpg",
+    "alt": "Portada de Uncharted",
+    "coverUrl": "./data/accion-aventura-video-game/uncharted.jpg",
+    "releaseDate": "19 de noviembre, 2007",
+    "developer": "Naughty Dog",
+    "genre": "Aventura",
+    "description": "centrada en el carismático cazador de tesoros Nathan Drake, quien, junto a su mentor Victor Sully Sullivan, viaja por todo el mundo explorando ruinas antiguas y resolviendo acertijos para encontrar tesoros perdidos, enfrentando mercenarios y enemigos despiadados."
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "rating": "8.3",
+    "src": "./data/accion-aventura-video-game/hollow.jpeg",
+    "alt": "Portada de Hollow Knight",
+    "coverUrl": "./data/accion-aventura-video-game/hollow.jpeg",
+    "releaseDate": "24 de febrero, 2017",
+    "developer": "Team Cherry",
+    "genre": "Aventura",
+    "description": "El videojuego cuenta la historia del Caballero, en su búsqueda para descubrir los secretos del largamente abandonado reino de Hallownest."
   }
 ]
