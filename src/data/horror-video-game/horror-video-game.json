@@ -1,0 +1,98 @@
+[
+  {
+    "id": "re-village",
+    "title": "Resident Evil Village 4",
+    "rating": "4.8",
+    "src": "./data/horror-video-game/images/residentEvil4.jpg",
+    "alt": "Portada de Resident Evil Village",
+    "coverUrl": "./data/horror-video-game/images/residentEvil4.jpg",
+    "releaseDate": "7 de mayo, 2021",
+    "developer": "Capcom",
+    "genre": "Horror",
+    "description": "Ethan Winters se adentra en un misterioso pueblo europeo en busca de su hija secuestrada, enfrentando horrores sobrenaturales y a la enigmática Familia Dimitrescu."
+  },
+  {
+    "id": "sh2-remake",
+    "title": "Silent Hill 2",
+    "rating": "4.9",
+    "src": "./data/horror-video-game/images/silent-hill-2.jpeg",
+    "alt": "Portada de Silent Hill 2 Remake",
+    "coverUrl": "./data/horror-video-game/images/silent-hill-2.jpeg",
+    "releaseDate": "8 de octubre, 2024",
+    "developer": "Bloober Team",
+    "genre": "Horror",
+    "description": "James Sunderland regresa a Silent Hill tras recibir una carta de su esposa fallecida. Una remake fiel y aterradora del clásico de culto de 2001."
+  },
+  {
+    "id": "dead-space-remake",
+    "title": "Dead Space",
+    "rating": "4.7",
+    "src": "./data/horror-video-game/images/dead-space.jpg",
+    "alt": "Portada de Dead Space Remake",
+    "coverUrl": "./data/horror-video-game/images/dead-space.jpg",
+    "releaseDate": "27 de enero, 2023",
+    "developer": "Motive Studio",
+    "genre": "Horror",
+    "description": "Isaac Clarke llega a la nave USG Ishimura para descubrir que su tripulación ha sido masacrada y transformada en necromorphos. Un remake impecable del survival horror espacial."
+  },
+  {
+    "id": "amnesia-rebirth",
+    "title": "Amnesia: Rebirth",
+    "rating": "4.2",
+    "src": "./data/horror-video-game/images/amnesia-rebirth.jpg",
+    "alt": "Portada de Amnesia: Rebirth",
+    "coverUrl": "./data/horror-video-game/images/amnesia-rebirth.jpg",
+    "releaseDate": "20 de octubre, 2020",
+    "developer": "Frictional Games",
+    "genre": "Horror",
+    "description": "Tasi Trianon despierta en el desierto argelino sin recuerdos. Deberá adentrarse en lugares oscuros y aterradores mientras descubre una verdad que amenaza con destruirla por dentro."
+  },
+  {
+    "id": "soma",
+    "title": "SOMA",
+    "rating": "4.6",
+    "src": "./data/horror-video-game/images/soma.jpeg",
+    "alt": "Portada de SOMA",
+    "coverUrl": "./data/horror-video-game/images/soma.jpeg",
+    "releaseDate": "22 de septiembre, 2015",
+    "developer": "Frictional Games",
+    "genre": "Horror",
+    "description": "En las profundidades del océano, Simon Jarrett despierta en una estación submarina abandonada. Un perturbador viaje de ciencia ficción y horror que cuestiona la naturaleza de la conciencia."
+  },
+  {
+    "id": "outlast",
+    "title": "Outlast",
+    "rating": "4.5",
+    "src": "./data/horror-video-game/images/outlast.jpg",
+    "alt": "Portada de Outlast",
+    "coverUrl": "./data/horror-video-game/images/outlast.jpg",
+    "releaseDate": "4 de septiembre, 2013",
+    "developer": "Red Barrels",
+    "genre": "Horror",
+    "description": "Miles Upshur, periodista de investigación, se infiltra en el manicomio Mount Massive armado solo con una cámara. Lo que encuentra dentro desafía toda lógica y cordura."
+  },
+  {
+    "id": "alien-isolation",
+    "title": "Alien: Isolation",
+    "rating": "4.7",
+    "src": "./data/horror-video-game/images/alien-isolation.jpeg",
+    "alt": "Portada de Alien: Isolation",
+    "coverUrl": "./data/horror-video-game/images/alien-isolation.jpeg",
+    "releaseDate": "7 de octubre, 2014",
+    "developer": "Creative Assembly",
+    "genre": "Horror",
+    "description": "Amanda Ripley busca respuestas sobre la desaparición de su madre en la estación espacial Sevastopol, donde un Xenomorfo implacable acecha cada rincón sin descanso."
+  },
+  {
+    "id": "layers-of-fear",
+    "title": "Layers of Fear",
+    "rating": "4.1",
+    "src": "./data/horror-video-game/images/layers-of-fear.jpeg",
+    "alt": "Portada de Layers of Fear",
+    "coverUrl": "./data/horror-video-game/images/layers-of-fear.jpeg",
+    "releaseDate": "16 de febrero, 2016",
+    "developer": "Bloober Team",
+    "genre": "Horror",
+    "description": "Un pintor obsesionado recorre su mansión victoriana para completar su obra maestra. Cada habitación revela fragmentos de su pasado tormentoso y su creciente locura."
+  }
+]
