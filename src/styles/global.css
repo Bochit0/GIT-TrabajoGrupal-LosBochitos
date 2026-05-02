@@ -46,3 +46,12 @@ img, svg, video {
   display: block;
   max-width: 100%;
 }
+
+game-card {
+  display: block;
+  min-width: 0;
+}
+
+game-card-list {
+  display: block;
+}
