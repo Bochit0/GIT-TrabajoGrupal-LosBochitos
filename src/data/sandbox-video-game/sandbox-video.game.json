@@ -1,1 +1,38 @@
- 
+[
+  {
+    "id": "minecraft",
+    "title": "Minecraft",
+    "rating": "10.0",
+    "src": "./data/sandbox-video-game/minecraft.png",
+    "alt": "Portada de Minecraft",
+    "coverUrl": "./data/sandbox-video-game/minecraft.png",
+    "releaseDate": "17 de mayo, 2009",
+    "developer": "Notch y Mojang",
+    "genre": "Sandbox",
+    "description": "Mundo de bloques mundo abierto, más popular y comprado que el tetris."
+  },
+  {
+    "id": "stardew-valley",
+    "title": "Stardew Valley",
+    "rating": "10.0",
+    "src": "./data/sandbox-video-game/stardewvalley.png",
+    "alt": "Portada de Stardew Valley",
+    "coverUrl": "./data/sandbox-video-game/stardewvalley.png",
+    "releaseDate": "26 de febrero, 2016",
+    "developer": "ConcernedApe",
+    "genre": "Sandbox",
+    "description": "Para huir de la ruidosa ciudad te mudas a una granja que te dejó tu difunto abuelo en un pueblo pacífico llamado ciudad pelicano, donde harás tu vida desde 0."
+  },
+  {
+    "id": "terraria",
+    "title": "Terraria",
+    "rating": "7.3",
+    "src": "./data/sandbox-video-game/terraria.jpg",
+    "alt": "Portada de Terraria",
+    "coverUrl": "./data/sandbox-video-game/terraria.jpg",
+    "releaseDate": "16 de mayo, 2011",
+    "developer": "Re-Logic",
+    "genre": "Sandbox",
+    "description": "sandbox de acción-aventura en 2D donde exploras mundos generados aleatoriamente para sobrevivir, construir y combatir. El jugador lucha contra criaturas y jefes —incluidos ecos de un mal antiguo como Cthulhu— para restaurar el equilibrio en un mundo amenazado por la corrupción y la bendición."
+  }
+]
