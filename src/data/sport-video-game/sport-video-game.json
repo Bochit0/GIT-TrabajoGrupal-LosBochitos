@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fifa-24",
+    "title": "EA Sports FC 24",
+    "rating": "4.3",
+    "src": "./data/sport-video-game/images/fifa-24.jpg",
+    "alt": "Portada de EA Sports FC 24",
+    "coverUrl": "./data/sport-video-game/images/fifa-24.jpg",
+    "releaseDate": "29 de septiembre, 2023",
+    "developer": "EA Sports",
+    "genre": "Sport",
+    "description": "El fútbol más realista de EA Sports bajo su nueva marca. HyperMotionV, modos Ultimate Team, carrera y clubes pro con miles de jugadores y ligas licenciadas de todo el mundo."
+  },
+  {
+    "id": "nba-2k24",
+    "title": "NBA 2K24",
+    "rating": "4.2",
+    "src": "./data/sport-video-game/images/nba-2k24.jpeg",
+    "alt": "Portada de NBA 2K24",
+    "coverUrl": "./data/sport-video-game/images/nba-2k24.jpeg",
+    "releaseDate": "8 de septiembre, 2023",
+    "developer": "Visual Concepts",
+    "genre": "Sport",
+    "description": "La simulación de baloncesto más completa del mercado. Crea tu jugador, domina la NBA, y rinde homenaje a Kobe Bryant en una entrega que celebra la grandeza del deporte rey de la cancha."
+  },
+  {
+    "id": "madden-nfl-24",
+    "title": "Madden NFL 24",
+    "rating": "4.1",
+    "src": "./data/sport-video-game/images/madden-nfl-24.jpeg",
+    "alt": "Portada de Madden NFL 24",
+    "coverUrl": "./data/sport-video-game/images/madden-nfl-24.jpeg",
+    "releaseDate": "18 de agosto, 2023",
+    "developer": "EA Tiburon",
+    "genre": "Sport",
+    "description": "El fútbol americano más auténtico en videojuegos. Nuevas mecánicas de bloqueo, IA mejorada y todos los equipos y jugadores de la NFL en la simulación oficial de la liga."
+  },
+  {
+    "id": "mlb-the-show-23",
+    "title": "MLB The Show 23",
+    "rating": "4.5",
+    "src": "./data/sport-video-game/images/mlb-show-23.jpeg",
+    "alt": "Portada de MLB The Show 23",
+    "coverUrl": "./data/sport-video-game/images/mlb-show-23.jpeg",
+    "releaseDate": "28 de marzo, 2023",
+    "developer": "San Diego Studio",
+    "genre": "Sport",
+    "description": "El simulador de béisbol más completo y realista. Road to the Show, Diamond Dynasty y todos los equipos de la MLB en una entrega que consolida la saga como referente del género."
+  },
+  {
+    "id": "ea-sports-pga-tour",
+    "title": "EA Sports PGA Tour",
+    "rating": "4.2",
+    "src": "./data/sport-video-game/images/pga-tour.jpg",
+    "alt": "Portada de EA Sports PGA Tour",
+    "coverUrl": "./data/sport-video-game/images/pga-tour.jpg",
+    "releaseDate": "7 de abril, 2023",
+    "developer": "EA Sports",
+    "genre": "Sport",
+    "description": "Vive el golf profesional en los campos más icónicos del mundo. Compite en los cuatro majors, personaliza tu golfista y domina cada hoyo con mecánicas de swing ultra realistas."
+  },
+  {
+    "id": "nhl-24",
+    "title": "NHL 24",
+    "rating": "4.3",
+    "src": "./data/sport-video-game/images/nhl-24.jpg",
+    "alt": "Portada de NHL 24",
+    "coverUrl": "./data/sport-video-game/images/nhl-24.jpg",
+    "releaseDate": "6 de octubre, 2023",
+    "developer": "EA Vancouver",
+    "genre": "Sport",
+    "description": "El hockey sobre hielo más frenético y realista. Nuevas físicas de contacto, movimientos de patinaje mejorados y todos los equipos de la NHL en la simulación oficial de la liga."
+  },
+  {
+    "id": "tennis-world-tour-2",
+    "title": "Tennis World Tour 2",
+    "rating": "4.0",
+    "src": "./data/sport-video-game/images/tennis-world-tour-2.jpg",
+    "alt": "Portada de Tennis World Tour 2",
+    "coverUrl": "./data/sport-video-game/images/tennis-world-tour-2.jpg",
+    "releaseDate": "24 de septiembre, 2020",
+    "developer": "Breakpoint Studio",
+    "genre": "Sport",
+    "description": "Compite con los mejores tenistas del mundo en los torneos más prestigiosos del circuito ATP. Domina cada superficie y lleva a tu jugador a lo más alto del ranking mundial."
+  },
+  {
+    "id": "top-spin-2k25",
+    "title": "TopSpin 2K25",
+    "rating": "4.4",
+    "src": "./data/sport-video-game/images/topSpin-2k25.jpeg",
+    "alt": "Portada de TopSpin 2K25",
+    "coverUrl": "./data/sport-video-game/images/topSpin-2k25.jpeg",
+    "releaseDate": "26 de abril, 2024",
+    "developer": "Hangar 13",
+    "genre": "Sport",
+    "description": "El regreso de la saga de tenis más querida. Mecánicas de juego profundas, jugadores licenciados y canchas icónicas en una entrega que recupera la esencia del tenis de simulación."
+  }
+]

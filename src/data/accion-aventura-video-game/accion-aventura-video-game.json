@@ -1,0 +1,62 @@
+[
+  {
+    "id": "M&L-partners-in-time",
+    "title": "Mario and Luigi Partners in Time",
+    "rating": "10.0",
+    "src": "./data/accion-aventura-video-game/images/mario&luigi_partners_in_time.png",
+    "alt": "Portada de Mario y Luigi Partners in Time",
+    "coverUrl": "./data/accion-aventura-video-game/images/mario&luigi_partners_in_time.png",
+    "releaseDate": "28 de noviembre, 2005",
+    "developer": "Alphadream",
+    "genre": "Aventura",
+    "description": "Mario y Luigi viajan al pasado a rescatar a la princesa Peach que fue secuestrada por los Shroobs, y en el camino se encuentran con sus versiones jóvenes las cuales les ayudarán en su travesía."
+  },
+  {
+    "id": "shadow-of-the-tomb-raider",
+    "title": "Shadow Of The Tomb Raider",
+    "rating": "8.7",
+    "src": "./data/accion-aventura-video-game/images/shadowofthetombraider.jpeg",
+    "alt": "Portada de Shadow of the Tomb Raider",
+    "coverUrl": "./data/accion-aventura-video-game/images/shadowofthetombraider.jpeg",
+    "releaseDate": "14 de septiembre, 2018",
+    "developer": "Eidos-Montreal",
+    "genre": "Aventura",
+    "description": "Tras desatar accidentalmente un apocalipsis maya, Lara debe explorar la selva sudamericana (México y Perú), encontrar la ciudad oculta de Paititi y detener a la organización Trinidad para salvar al mundo, convirtiéndose finalmente en la saqueadora de tumbas definitiva."
+  },
+  {
+    "id": "ac-black-flag",
+    "title": "Assasins Creed Black Flag",
+    "rating": "9.3",
+    "src": "./data/accion-aventura-video-game/images/ac-black-flag.png",
+    "alt": "Portada de Assasins Creed Black Flag",
+    "coverUrl": "./data/accion-aventura-video-game/images/ac-black-flag.png",
+    "releaseDate": "19 de octubre, 2013",
+    "developer": "Ubisoft",
+    "genre": "Aventura",
+    "description": "sigue a Edward Kenway, un audaz pirata galés en el Caribe de 1715 durante la Edad de Oro de la piratería."
+  },
+  {
+    "id": "uncharted",
+    "title": "Uncharted",
+    "rating": "7.5",
+    "src": "./data/accion-aventura-video-game/images/uncharted.jpg",
+    "alt": "Portada de Uncharted",
+    "coverUrl": "./data/accion-aventura-video-game/images/uncharted.jpg",
+    "releaseDate": "19 de noviembre, 2007",
+    "developer": "Naughty Dog",
+    "genre": "Aventura",
+    "description": "centrada en el carismático cazador de tesoros Nathan Drake, quien, junto a su mentor Victor Sully Sullivan, viaja por todo el mundo explorando ruinas antiguas y resolviendo acertijos para encontrar tesoros perdidos, enfrentando mercenarios y enemigos despiadados."
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "rating": "8.3",
+    "src": "./data/accion-aventura-video-game/images/hollow.jpeg",
+    "alt": "Portada de Hollow Knight",
+    "coverUrl": "./data/accion-aventura-video-game/images/hollow.jpeg",
+    "releaseDate": "24 de febrero, 2017",
+    "developer": "Team Cherry",
+    "genre": "Aventura",
+    "description": "El videojuego cuenta la historia del Caballero, en su búsqueda para descubrir los secretos del largamente abandonado reino de Hallownest."
+  }
+]
