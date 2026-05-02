@@ -1,0 +1,98 @@
+[
+  {
+    "id": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "rating": "4.9",
+    "src": "./data/carrera-video-game/images/",
+    "alt": "Portada de Forza Horizon 5",
+    "coverUrl": "./data/carrera-video-game/images/",
+    "releaseDate": "9 de noviembre, 2021",
+    "developer": "Playground Games",
+    "genre": "Carrera",
+    "description": "Explora un mundo abierto ambientado en México con cientos de autos de ensueño. Carreras, eventos y paisajes impresionantes en la entrega más grande de la saga Forza Horizon."
+  },
+  {
+    "id": "gran-turismo-7",
+    "title": "Gran Turismo 7",
+    "rating": "4.7",
+    "src": "./data/carrera-video-game/images/",
+    "alt": "Portada de Gran Turismo 7",
+    "coverUrl": "./data/carrera-video-game/images/",
+    "releaseDate": "4 de marzo, 2022",
+    "developer": "Polyphony Digital",
+    "genre": "Carrera",
+    "description": "El simulador de conducción definitivo regresa con más de 400 autos, circuitos icónicos y una experiencia de juego que celebra la historia del automovilismo mundial."
+  },
+  {
+    "id": "f1-23",
+    "title": "F1 23",
+    "rating": "4.6",
+    "src": "./data/carrera-video-game/images/",
+    "alt": "Portada de F1 23",
+    "coverUrl": "./data/carrera-video-game/images/",
+    "releaseDate": "16 de junio, 2023",
+    "developer": "Codemasters",
+    "genre": "Carrera",
+    "description": "Vive la temporada 2023 de la Fórmula 1 al máximo. Conduce con los mejores pilotos del mundo en los circuitos más exigentes y desafiantes del campeonato más prestigioso del motor."
+  },
+  {
+    "id": "need-for-speed-unbound",
+    "title": "Need for Speed Unbound",
+    "rating": "4.3",
+    "src": "./data/carrera-video-game/images/",
+    "alt": "Portada de Need for Speed Unbound",
+    "coverUrl": "./data/carrera-video-game/images/",
+    "releaseDate": "2 de diciembre, 2022",
+    "developer": "Criterion Games",
+    "genre": "Carrera",
+    "description": "Las calles de Lakeshore City son tu circuito. Personaliza tu auto, evade a la policía y compite en carreras ilegales con un estilo visual único que mezcla arte urbano y gráficos realistas."
+  },
+  {
+    "id": "dirt-rally-2",
+    "title": "DiRT Rally 2.0",
+    "rating": "4.7",
+    "src": "./data/carrera-video-game/images/",
+    "alt": "Portada de DiRT Rally 2.0",
+    "coverUrl": "./data/carrera-video-game/images/",
+    "releaseDate": "26 de febrero, 2019",
+    "developer": "Codemasters",
+    "genre": "Carrera",
+    "description": "El simulador de rally más exigente del mercado. Barro, grava y asfalto roto en escenarios de todo el mundo donde cada curva puede ser la última si no dominas tu auto."
+  },
+  {
+    "id": "mario-kart-8",
+    "title": "Mario Kart 8 Deluxe",
+    "rating": "4.8",
+    "src": "./data/carrera-video-game/images/",
+    "alt": "Portada de Mario Kart 8 Deluxe",
+    "coverUrl": "./data/carrera-video-game/images/",
+    "releaseDate": "28 de abril, 2017",
+    "developer": "Nintendo",
+    "genre": "Carrera",
+    "description": "El juego de carreras más divertido de Nintendo con todos tus personajes favoritos. Circuitos locos, items caóticos y diversión garantizada tanto en solitario como en multijugador."
+  },
+  {
+    "id": "the-crew-motorfest",
+    "title": "The Crew Motorfest",
+    "rating": "4.4",
+    "src": "./data/carrera-video-game/images/",
+    "alt": "Portada de The Crew Motorfest",
+    "coverUrl": "./data/carrera-video-game/images/",
+    "releaseDate": "14 de septiembre, 2023",
+    "developer": "Ubisoft Ivory Tower",
+    "genre": "Carrera",
+    "description": "Un festival de velocidad ambientado en Hawaii con autos, motos y aviones. Compite en eventos temáticos que celebran la cultura del motor en un mundo abierto lleno de vida."
+  },
+  {
+    "id": "assetto-corsa-competizione",
+    "title": "Assetto Corsa Competizione",
+    "rating": "4.6",
+    "src": "./data/carrera-video-game/images/",
+    "alt": "Portada de Assetto Corsa Competizione",
+    "coverUrl": "./data/carrera-video-game/images/",
+    "releaseDate": "29 de mayo, 2019",
+    "developer": "Kunos Simulazioni",
+    "genre": "Carrera",
+    "description": "El simulador oficial del campeonato GT World Challenge. Física ultra realista, clima dinámico y una experiencia de conducción que pone a prueba hasta al piloto virtual más experimentado."
+  }
+]
