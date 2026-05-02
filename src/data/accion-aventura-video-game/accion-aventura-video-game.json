@@ -1,0 +1,38 @@
+[
+  {
+    "id": "M&L-partners-in-time",
+    "title": "Mario and Luigi Partners in Time",
+    "rating": "10.0",
+    "src": "./data/accion-aventura-video-game/mario&luigi_partners_in_time.png",
+    "alt": "Portada de Mario y Luigi Partners in Time",
+    "coverUrl": "./data/accion-aventura-video-game/mario&luigi_partners_in_time.png",
+    "releaseDate": "28 de noviembre, 2005",
+    "developer": "Alphadream",
+    "genre": "Aventura",
+    "description": "Mario y Luigi viajan al pasado a rescatar a la princesa Peach que fue secuestrada por los Shroobs, y en el camino se encuentran con sus versiones jóvenes las cuales les ayudarán en su travesía."
+  },
+  {
+    "id": "shadow-of-the-tomb-raider",
+    "title": "Shadow Of The Tomb Raider",
+    "rating": "8.7",
+    "src": "./data/accion-aventura-video-game/shadowofthetombraider.jpeg",
+    "alt": "Portada de Shadow of the Tomb Raider",
+    "coverUrl": "./data/accion-aventura-video-game/shadowofthetombraider.jpeg",
+    "releaseDate": "14 de septiembre, 2018",
+    "developer": "Eidos-Montreal",
+    "genre": "Aventura",
+    "description": "Tras desatar accidentalmente un apocalipsis maya, Lara debe explorar la selva sudamericana (México y Perú), encontrar la ciudad oculta de Paititi y detener a la organización Trinidad para salvar al mundo, convirtiéndose finalmente en la saqueadora de tumbas definitiva."
+  },
+  {
+    "id": "ac-black-flag",
+    "title": "Assasins Creed Black Flag",
+    "rating": "9.3",
+    "src": "./data/accion-aventura-video-game/ac-black-flag.png",
+    "alt": "Portada de Assasins Creed Black Flag",
+    "coverUrl": "./data/accion-aventura-video-game/ac-black-flag.png",
+    "releaseDate": "19 de octubre, 2013",
+    "developer": "Ubisoft",
+    "genre": "Aventura",
+    "description": "sigue a Edward Kenway, un audaz pirata galés en el Caribe de 1715 durante la Edad de Oro de la piratería."
+  }
+]
