@@ -109,3 +109,4 @@ Los juegos se cargan dinámicamente desde archivos JSON locales. Cada categoría
 1. Clona el repositorio
 2. Abre la carpeta **src/** con **Live Server** desde VS Code (click derecho en **index.html** → *Open with Live Server*)
 3. Navega por las categorías y explora los juegos
+4. No se pudo cmopletar la rama hot fix para el deploy, en todo caso hacer correr npx serve src
