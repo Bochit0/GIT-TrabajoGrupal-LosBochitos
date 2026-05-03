@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fornite",
+    "title": "Fornite",
+    "rating": "7.0",
+    "src": "./data/shooter-video-game/images/fornite.png",
+    "alt": "Portada de Fornite",
+    "coverUrl": "./data/shooter-video-game/images/fornite.png",
+    "releaseDate": "21 de julio, 2017",
+    "developer": "Epic Games",
+    "genre": "Shooter",
+    "description": "El Battle Royale más popular de todos los tiempos."
+  },
+  {
+    "id": "halo-infinite",
+    "title": "Halo Infinite",
+    "rating": "10.0",
+    "src": "./data/shooter-video-game/images/halo-inf.jpeg",
+    "alt": "Portada de Halo Infinite",
+    "coverUrl": "./data/shooter-video-game/images/halo-inf.jpeg",
+    "releaseDate": "8 de diciembre, 2021",
+    "developer": "343 Industries",
+    "genre": "Shooter",
+    "description": "sigue al Jefe Maestro en una misión desesperada tras la derrota de la UNSC contra los Desterrados, liderados por Atriox, en el Zeta Halo (Instalación 07). Ambientado en un mundo abierto, el Spartan debe detener a esta facción enemiga y descubrir el destino de Cortana con la ayuda de una nueva IA, El Arma."
+  },
+  {
+    "id": "counter-strike",
+    "title": "Counter Strike",
+    "rating": "8.3",
+    "src": "./data/shooter-video-game/images/counter.jpeg",
+    "alt": "Portada de Counter Strike",
+    "coverUrl": "./data/shooter-video-game/images/counter.jpeg",
+    "releaseDate": "8 de noviembre, 2000",
+    "developer": "Valve Corporation",
+    "genre": "Shooter",
+    "description": "Uno de los clásicos de los shooters, que actuales jugadores siguen amando."
+  }
+]
